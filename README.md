@@ -29,7 +29,8 @@ pip install tk
 
 ## Example Output
 
-[Add images of the program output here]
+![Intial View](Images/Screenshot%20(3).png)
+
 
 ## How It Works
 
