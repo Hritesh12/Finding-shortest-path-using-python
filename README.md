@@ -43,6 +43,14 @@ pip install tk
 
 ![Intial View](Images/Screenshot%20(6).png)
 
+### step 5 
+
+<p align="center">
+  <img src="Images/Screenshot (7).png" alt="Image 1" width="200"/>
+  <img src="Images/Screenshot (8).png" alt="Image 2" width="200"/>
+  <img src="Images/Screenshot (9).png" alt="Image 3" width="200"/>
+</p>
+
 
 ## How It Works
 
