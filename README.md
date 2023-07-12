@@ -46,9 +46,9 @@ pip install tk
 ### step 5 
 
 <p align="center">
-  <img src="Images/Screenshot (7).png" alt="Image 1" width="200"/>
-  <img src="Images/Screenshot (8).png" alt="Image 2" width="200"/>
-  <img src="Images/Screenshot (9).png" alt="Image 3" width="200"/>
+  <img src="Images/Screenshot (7).png" alt="Image 1" width="400"/>
+  <img src="Images/Screenshot (8).png" alt="Image 2" width="400"/>
+  <img src="Images/Screenshot (9).png" alt="Image 3" width="400"/>
 </p>
 
 
