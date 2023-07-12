@@ -29,7 +29,19 @@ pip install tk
 
 ## Example Output
 
+### Step 1
+
 ![Intial View](Images/Screenshot%20(3).png)
+
+### Step 2
+
+![Intial View](Images/Screenshot%20(4).png)
+### Step 3
+
+![Intial View](Images/Screenshot%20(5).png)
+### Step 4
+
+![Intial View](Images/Screenshot%20(6).png)
 
 
 ## How It Works
